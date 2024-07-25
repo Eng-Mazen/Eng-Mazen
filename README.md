@@ -6,4 +6,4 @@
 
 - for now, I have only completed a mastering course of python.
 
-- Email: es-mazen.mamdouh2027@alexu.edu.eg
+- Email: mazen.mamdouh798@gmail.com
