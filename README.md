@@ -4,6 +4,4 @@
 
 - I'm intersted in machine learning
 
-- for now, I have only completed a mastering course of python.
-
 - Email: mazen.mamdouh798@gmail.com
